@@ -1,6 +1,6 @@
 @echo off
 ::=============================
-:: TESTING 123456789
+:: TESTING
 REM ENVIRONMENT: W7 32bit
 REM STRAT DATE:5 JAN 2022
 ::=============================
